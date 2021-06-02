@@ -35,5 +35,8 @@
     "jsdom-global": "3.0.2",
     "mocha": "^5.2.0",
     "sinon": "^6.3.5"
-  }
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }
